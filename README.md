@@ -10,7 +10,7 @@
    
    <h4>
      ※
- <a href="https://sylinvu.carrd.co/">ᴍʏ ᴄᴀʀʀᴅ</a> 
+ <a href=>ᴍʏ ᴄᴀʀʀᴅ</a> 
      ※
    </h4>
    
